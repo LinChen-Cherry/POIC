@@ -11,4 +11,4 @@ POIC dataset contains total `20` sequence which in folder `./sequences`, and we 
 The ground truth files are in folder `./gt`
 
 ## Results
-We provide all results of the methods referenced in the paper in folder `./results`.
+We provide all results of the methods referenced in our paper in folder `./results`.

@@ -15,22 +15,25 @@ We provide all results of the methods referenced in our paper in folder `./resul
 
 ## Cite
 Please cite the following bibs. if you use this dataset:
-@inproceedings{chen2017illumination,
-  title={Illumination insensitive efficient second-order minimization for planar object tracking},
-  author={Chen, Lin and Zhou, Fan and Shen, Yu and Tian, Xiang and Ling, Haibin and Chen, Yaowu},
-  month={May},
-  year={2017},
-  pages={4429-4436},
-  booktitle={Proc. Int. Conf. Robot. Autom.}
-}
 
-@article{lin2019robust,
-	author = {Lin Chen, Haibin Ling, Yu Shen, Fan Zhou, Ping Wang, Xiang Tian, Yaowu Chen},
-	title = {Robust visual tracking for planar objects using gradient orientation pyramid},
-	volume = {28},
-	journal = {Journal of Electronic Imaging},
-	number = {1},
-	pages = {1-16-16},
-	year = {2019},
-	doi = {10.1117/1.JEI.28.1.013007}
-}
+	@inproceedings{chen2017illumination,
+		title={Illumination insensitive efficient second-order minimization for planar object tracking},
+		author={Chen, Lin and Zhou, Fan and Shen, Yu and Tian, Xiang and Ling, Haibin and Chen, Yaowu}, 
+		month={May},  
+		year={2017}, 
+		pages={4429-4436},  
+		booktitle={Proc. Int. Conf. Robot. Autom.}    
+	}
+
+
+
+	@article{lin2019robust,
+		author = {Lin Chen, Haibin Ling, Yu Shen, Fan Zhou, Ping Wang, Xiang Tian, Yaowu Chen},	
+		title = {Robust visual tracking for planar objects using gradient orientation pyramid},	
+		volume = {28},	
+		journal = {Journal of Electronic Imaging},	
+		number = {1},	
+		pages = {1-16-16},	
+		year = {2019},	
+		doi = {10.1117/1.JEI.28.1.013007}	
+	}
